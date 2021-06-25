@@ -1,25 +1,19 @@
-### Hi there 👋
+
 
 <div>
 		<p>Hey there! I'm Deepak.<br/>
 		It's great to see you here!</p>
 </div>
-
+<hr>
 	
 <h2>Projects</h2>
+<p><a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF file Data Extraction</b></a></p>
+<p><a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a></p>
+<p><a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b> </a></p>
 		
 
-		<a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF file Data Extraction</b></a>
 		
-			
 
-
-	<a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a>
-		
-		
-		
-	
-		<a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b> </a>
 		
 			
 			
