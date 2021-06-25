@@ -31,6 +31,7 @@
 <b>Certified Python Marketing Analytics (<a href="https://drive.google.com/file/d/1gEPhMKFntl1qX1xWGKyjScFEp4gmOByN/view?usp=sharing" target="_blank">CPMA</a>)</b><br/>
 
 <a href="https://drive.google.com/file/d/1t8tNXF_OBaTuzIt-9aDfUtLJz5JcQmCi/view?usp=sharing" target="_blank">Programming with Python</a><br/>
+<a href="https://drive.google.com/file/d/1mH_NdkbsSqRen6IRdB6op2M679mXW0XQ/view?usp=sharing" target="_blank">Data Structures and Algorithms in Python</a><br>
 <a href="https://drive.google.com/file/d/1ubIY_m1tYISwxyxLs1mhA90fDjmP-fPp/view?usp=sharing" target="_blank">Web Development</a><br>
 <a href="https://drive.google.com/file/d/1arGccgA93zUGyAr2Y8N7NQ4CH8sc_Jwu/view?usp=sharing" target="_blank">Programming with C and C++</a><br/>
 <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a><br/>
