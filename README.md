@@ -7,7 +7,7 @@
 <hr>
 	
 <h2>Projects</h2>
-<p><a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF file Data Extraction</b></a></p>
+<p><a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b> - Text and Image Extraction from Web Link or URL & Summarization of Text </a></p>
 <p><a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a></p>
 <p><a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b> </a></p>
 		
