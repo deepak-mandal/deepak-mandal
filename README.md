@@ -27,7 +27,7 @@
 <hr/>
 		
 <h2>Achievements/Certifications/Training(s)/Workshops</h2>
-<b>Joint Entrance Examination 2017</b><br/>
+<b>Joint Entrance Examination - JEE(Adv) 2017</b><br/>
 <b>Certified Python Marketing Analytics (<a href="https://drive.google.com/file/d/1gEPhMKFntl1qX1xWGKyjScFEp4gmOByN/view?usp=sharing" target="_blank">CPMA</a>)</b><br/>
 
 <a href="https://drive.google.com/file/d/1t8tNXF_OBaTuzIt-9aDfUtLJz5JcQmCi/view?usp=sharing" target="_blank">Programming with Python</a><br/>
