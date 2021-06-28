@@ -12,6 +12,7 @@
 <p><a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b> (using gmail) </a></p>
 <p><a href="https://github.com/deepak-mandal/SalePricePrediction"><b>House Price Prediction</b> - A Machine Learning model that predicts the sale price of the house based on its characteristics</a></p>
 <p><a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b> (using Python)</a></p>
+<p><a href="https://github.com/deepak-mandal/deepak-mandal.github.io"><b>Portfolio resume</b></a></p>
 <p><a href="https://github.com/deepak-mandal/Game">Python-based desktop application - <b>Fantasy Cricket Game</b> </a></p>
 <p><a href="">PHP based full-stack web app - <b>CRSI Conference Website</b> </a></p>
 		
