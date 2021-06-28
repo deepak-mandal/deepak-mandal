@@ -8,7 +8,7 @@
 	
 <h2>Projects</h2>
 <p><a href="https://github.com/deepak-mandal/eCommerce"><b>eCommerce (Basic features) Ongoing</b> using Python3 - Django, JavaScript </a></p>
-<p><a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b> - Text and Image Extraction from Web Link or URL & Summarization of Text </a></p>
+<p><a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text </a></p>
 <p><a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b> (using gmail) </a></p>
 <p><a href="https://github.com/deepak-mandal/SalePricePrediction"><b>House Price Prediction</b> - A Machine Learning model that predicts the sale price of the house based on its characteristics</a></p>
 <p><a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b> (using Python)</a></p>
