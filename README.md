@@ -38,6 +38,7 @@
 <a href="https://drive.google.com/file/d/1arGccgA93zUGyAr2Y8N7NQ4CH8sc_Jwu/view?usp=sharing" target="_blank">Programming with C and C++</a><br/>
 <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a><br/>
 <a href="https://www.hackerrank.com/certificates/a43ba88c024e" target="_blank">HackerRank Certificates in Python</a>
+<a href="https://drive.google.com/file/d/1V14GdTpM4_cv7VZXTaCmafxbrpplAa5x/view?usp=sharing" target="_blank">HackerRank Certificates in Problem Solving</a>
 
 <hr/>
 
