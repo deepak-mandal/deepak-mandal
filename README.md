@@ -33,7 +33,7 @@
 
 <details>
   <summary>
-    <b>Certified Python Marketing Analytics (<a href="https://drive.google.com/file/d/1gEPhMKFntl1qX1xWGKyjScFEp4gmOByN/view?usp=sharing" target="_blank">CPMA</a>)</b> View <br/>
+    <b>Certified Python Marketing Analytics (<a href="https://drive.google.com/file/d/1gEPhMKFntl1qX1xWGKyjScFEp4gmOByN/view?usp=sharing" target="_blank">CPMA</a>)</b> View Certificate <br/>
   </summary>
   <div align="center">
 	<img src="/img/2.png">	
@@ -81,7 +81,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a> View Certificate <br/>
+    <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a> View <br/>
   </summary>
   <div align="center">
 	<img src="/img/8.jpg">	
@@ -93,7 +93,7 @@
 
 <details>
   <summary>
-    <a href="https://www.hackerrank.com/certificates/a43ba88c024e" target="_blank">HackerRank Certificates in Python</a> View Certificate <br/>
+    <a href="https://www.hackerrank.com/certificates/a43ba88c024e" target="_blank">HackerRank Certificates in Python</a> View <br/>
   </summary>
   <div align="center">
 	<img src="/img/4.png">	
