@@ -29,7 +29,13 @@
 <hr/>
 		
 <h2>Achievements/Certifications/Training(s)/Workshops</h2>
-<b>Joint Entrance Examination - JEE(Adv) 2017</b><br/>
+
+<details>
+  <summary>
+    <b>Joint Entrance Examination - JEE(Adv) 2017</b><br/>
+  </summary>
+</details>
+
 
 <details>
   <summary>
