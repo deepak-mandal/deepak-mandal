@@ -12,7 +12,7 @@
   <summary>
     <a href="https://github.com/deepak-mandal/eCommerce"><b>eCommerce (Basic features)</b></a> Ongoing using Python3 - Django, JavaScript 
   </summary>
-  working on, will update soon..
+  working on, will update soon..<hr/>
 </details>
 
 <details>
@@ -32,7 +32,7 @@
 <br/>
 Further Extracted Text and Image Data from the PDF file format.<br/>
 
-<h6>Technologies used: Python3, BeautifulSoup/bs4, PyPDF2, SpaCy, NLTK, WordCloud, NumPy, Shutil, OS, parse, requests</h6>
+<h6>Technologies used: Python3, BeautifulSoup/bs4, PyPDF2, SpaCy, NLTK, WordCloud, NumPy, Shutil, OS, parse, requests</h6><hr/>
 </details>
 
 
@@ -46,7 +46,7 @@ Further Extracted Text and Image Data from the PDF file format.<br/>
   <h1>Email Automation with Python</h1>
 <h6>Automating emails by the help of Python, smtplib, Linux & Window OS, HTML, CSS, with attachments using Encrypted connections.</h6>
 
-<h6><b>Features:-</b> Multiple emails can in one go or on single click, The delivered email is of personalised type i.e. "to" for each single email_Id but not "bcc" or "cc" e-mail type<h6><br/><hr/>
+<h6><b>Features:-</b> Multiple emails can in one go or on single click, The delivered email is of personalised type i.e. "to" for each single email_Id but not "bcc" or "cc" e-mail type<h6><hr/>
 </details>
 
 
@@ -58,7 +58,7 @@ Further Extracted Text and Image Data from the PDF file format.<br/>
   <h1>House Price Prediction</h1>
 <b>Objective:- To build a Linear Regression model that will be able to Predict the Sale Price of the house based on its characteristics.</b>
 <h5>Result:- Generated the Prediction for test dataset with 84.62 % accuracy of the Model</h5>
-<h6>Technologies used: Python, Machine learning technique - Linear Regression</h6>
+<h6>Technologies used: Python, Machine learning technique - Linear Regression</h6><hr/>
 
 </details>
 	
@@ -85,7 +85,7 @@ Analysed the unstructured data (article) using text mining and created the Word 
   <summary>
     <a href="https://github.com/deepak-mandal/deepak-mandal.github.io"><b>Portfolio resume</b></a>
   </summary>
-	
+	<hr/>
 </details>
 	
 	
@@ -96,11 +96,11 @@ Analysed the unstructured data (article) using text mining and created the Word 
   </summary>
   <h1>Fantasy Cricket Game</h1>
 
-Internshala Trainings, Jul 2020<br><br>
+Internshala Trainings, Jul 2020<br>
 
 Build a Python-based desktop application which is a Fantasy Cricket Game, where we would create a virtual team of cricket players and score points on how the players perform in different matches.
 
-<h6>Technologies used: Python, OOP, SQLite, PyQt framework</h6>
+<h6>Technologies used: Python, OOP, SQLite, PyQt framework</h6><hr/>
 
 </details>
 
@@ -109,11 +109,10 @@ Build a Python-based desktop application which is a Fantasy Cricket Game, where 
   <summary>
     PHP based full-stack web app - <a href=""><b>CRSI Conference Website</b> </a>
   </summary>
-  <h1>CRSI Conference Website</h1>April 2020 - June 2020
-<hr>
+  <h1>CRSI Conference Website</h1>April 2020 - June 2020<br/>
 Developed PHP based full-stack conference web app for our Department with my team members.<br/>
 Developed the admin portal for the response to edit/delete.<br/><h6>
-Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><br>
+Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><hr/>
 </details>
 	
 	
@@ -122,12 +121,12 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 <hr/>
 
 <h2>Technical Skills</h2>
-<b>Programming languages :</b> Python, C, C++, Fortran<br/>
-<b>Web technologies :</b> HTML, CSS, JavaScript, Bootstrap, SQL, PHP, Django<br/>
-<b>Database management :</b> SQLite, MySQL<br/>
-<b>Analytical tools :</b> pandas, Matplotlib, NumPy, scikit-learn, NLTK, SpaCy, WordCloud, BeautifulSoup<br/>
-<b>Miscellaneous :</b> git, MS Excel, Data structures, Algorithms, OOP, LibreOffice, GUI/PyQt, Grace plotting tool, GIMP<br/>
-<b>Operating system :</b> Linux, Windows<br/>
+<li><b>Programming languages :</b> Python, C, C++, Fortran</li>
+<li><b>Web technologies :</b> HTML, CSS, JavaScript, Bootstrap, SQL, PHP, Django</li>
+<li><b>Database management :</b> SQLite, MySQL</li>
+<li><b>Analytical tools :</b> pandas, Matplotlib, NumPy, scikit-learn, NLTK, SpaCy, WordCloud, BeautifulSoup</li>
+<li><b>Miscellaneous :</b> git, MS Excel, Data structures, Algorithms, OOP, LibreOffice, GUI/PyQt, Grace plotting tool, GIMP</li>
+<li><b>Operating system :</b> Linux, Windows</li>
 
 <hr/>
 		
