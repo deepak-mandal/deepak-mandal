@@ -17,7 +17,7 @@
 
 <details>
   <summary>
-    <a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b></a> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text <i>(<b>click here to view</b>)</i>
+    <a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b></a> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text <i>(<b>click here for details</b>)</i>
   </summary>
   <h1>Web and PDF file Data Extraction</h1>
 <h3>1. Summarization of Text:-</h3> Generated the summary from the Source text, Further Drawn the Word Cloud <br/>
