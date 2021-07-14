@@ -57,7 +57,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1mH_NdkbsSqRen6IRdB6op2M679mXW0XQ/view?usp=sharing" target="_blank">Data Structures and Algorithms in Python</a> View Certificate <br/>
+    <a href="https://drive.google.com/file/d/1mH_NdkbsSqRen6IRdB6op2M679mXW0XQ/view?usp=sharing" target="_blank">Data Structures and Algorithms in Python</a> <i> (view)</i> <br/>
   </summary>
   <div align="center">
 	<img src="/img/6.png">	
@@ -66,7 +66,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1ubIY_m1tYISwxyxLs1mhA90fDjmP-fPp/view?usp=sharing" target="_blank">Web Development</a> View Certificate <br/>
+    <a href="https://drive.google.com/file/d/1ubIY_m1tYISwxyxLs1mhA90fDjmP-fPp/view?usp=sharing" target="_blank">Web Development</a> <i> (view)</i><br/>
   </summary>
   <div align="center">
 	<img src="/img/5.png">	
@@ -76,7 +76,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1arGccgA93zUGyAr2Y8N7NQ4CH8sc_Jwu/view?usp=sharing" target="_blank">Programming with C and C++</a> View<br/>
+    <a href="https://drive.google.com/file/d/1arGccgA93zUGyAr2Y8N7NQ4CH8sc_Jwu/view?usp=sharing" target="_blank">Programming with C and C++</a> <i> (view)</i><br/>
   </summary>
   <div align="center">
 	<img src="/img/7.png">	
@@ -87,7 +87,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a> View <br/>
+    <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a><i> (view)</i><br/>
   </summary>
   <div align="center">
 	<img src="/img/8.jpg">	
@@ -99,7 +99,7 @@
 
 <details>
   <summary>
-    <a href="https://www.hackerrank.com/certificates/a43ba88c024e" target="_blank">HackerRank Certificates in Python</a> View <br/>
+    <a href="https://www.hackerrank.com/certificates/a43ba88c024e" target="_blank">HackerRank Certificates in Python</a><i> (view)</i><br/>
   </summary>
   <div align="center">
 	<img src="/img/4.png">	
@@ -113,7 +113,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1V14GdTpM4_cv7VZXTaCmafxbrpplAa5x/view?usp=sharing" target="_blank">HackerRank Certificates in Problem Solving </a><i>click to view</i> <br/>
+    <a href="https://drive.google.com/file/d/1V14GdTpM4_cv7VZXTaCmafxbrpplAa5x/view?usp=sharing" target="_blank">HackerRank Certificates in Problem Solving </a><i>(click to view)</i> <br/>
   </summary>
   <div align="center">
 	<img src="/img/3.png">	
