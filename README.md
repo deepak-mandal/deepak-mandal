@@ -113,7 +113,7 @@
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1V14GdTpM4_cv7VZXTaCmafxbrpplAa5x/view?usp=sharing" target="_blank">HackerRank Certificates in Problem Solving </a><a><img src="/img/3.png" width=16px height=16px></a> <br/>
+    <a href="https://drive.google.com/file/d/1V14GdTpM4_cv7VZXTaCmafxbrpplAa5x/view?usp=sharing" target="_blank">HackerRank Certificates in Problem Solving </a><img src="/img/3.png" width=16px height=16px> <br/>
   </summary>
   <div align="center">
 	<img src="/img/3.png">	
