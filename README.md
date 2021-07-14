@@ -7,14 +7,117 @@
 <hr>
 	
 <h2>Projects</h2>
-<p><a href="https://github.com/deepak-mandal/eCommerce"><b>eCommerce (Basic features) Ongoing</b> using Python3 - Django, JavaScript </a></p>
-<p><a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text </a></p>
-<p><a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b> (using gmail) </a></p>
-<p><a href="https://github.com/deepak-mandal/SalePricePrediction"><b>House Price Prediction</b> - A Machine Learning model that predicts the sale price of the house based on its characteristics</a></p>
-<p><a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b> (using Python)</a></p>
-<p><a href="https://github.com/deepak-mandal/deepak-mandal.github.io"><b>Portfolio resume</b></a></p>
-<p><a href="https://github.com/deepak-mandal/Game">Python-based desktop application - <b>Fantasy Cricket Game</b> </a></p>
-<p><a href="">PHP based full-stack web app - <b>CRSI Conference Website</b> </a></p>
+
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/eCommerce"><b>eCommerce (Basic features)</b></a> Ongoing using Python3 - Django, JavaScript 
+  </summary>
+  working on, will update soon..
+</details>
+
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b></a> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text 
+  </summary>
+  <h1>Web and PDF file Data Extraction</h1>
+<h3>1. Summarization of Text:-</h3> Generated the summary from the Source text, Further Drawn the Word Cloud <br/>
+(a). From Any Web Link - could be generated summary x percentage (eg. 50%) of the Original web source Text data. & finally created a Word cloud.<br>
+(b). From Any PDF file - Generated summary of the .pdf file, and their word cloud<br/>
+
+
+<h3>2. Text and Image Extraction from any Web Link or URL:- </h3>
+(a). Generated the formated HTML file from source code<br>
+(b). Extraced all the Images from the web Link, and Downloaded into a folder automatically<br>
+(c). Extracted Various text data such as paragraph tags, anchor tags, header tags, Further saved all data in a file
+<br/>
+Further Extracted Text and Image Data from the PDF file format.<br/>
+
+<h6>Technologies used: Python3, BeautifulSoup/bs4, PyPDF2, SpaCy, NLTK, WordCloud, NumPy, Shutil, OS, parse, requests</h6>
+</details>
+
+
+
+
+
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a> (using gmail) 
+  </summary>
+  <h1>Email Automation with Python</h1>
+<h6>Automating emails by the help of Python, smtplib, Linux & Window OS, HTML, CSS, with attachments using Encrypted connections.</h6>
+
+<h6><b>Features:-</b> Multiple emails can in one go or on single click, The delivered email is of personalised type i.e. "to" for each single email_Id but not "bcc" or "cc" e-mail type<h6><br/><hr/>
+</details>
+
+
+	
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/SalePricePrediction"><b>House Price Prediction</b></a> - A Machine Learning model that predicts the sale price of the house based on its characteristics
+  </summary>
+  <h1>House Price Prediction</h1>
+<b>Objective:- To build a Linear Regression model that will be able to Predict the Sale Price of the house based on its characteristics.</b>
+<h5>Result:- Generated the Prediction for test dataset with 84.62 % accuracy of the Model</h5>
+<h6>Technologies used: Python, Machine learning technique - Linear Regression</h6>
+
+</details>
+	
+
+
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/Word-Cloud-from-Text-Mining"><b>Wikipedia Text Analytics and Mining</b></a> (using Python)
+  </summary>
+ <h1>Wikipedia Text Analytics and Mining </h1>
+Self-paced project, Dec 2020<br/><br>
+
+Analysed the unstructured data (article) using text mining and created the Word Cloud out of that; to understand what these article trying to say, rather than reading the entire article. <br/>
+<h6>Technologies used: Python3, WordCloud</h6>
+<hr/>
+</details>	
+	
+
+	
+	
+	
+	
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/deepak-mandal.github.io"><b>Portfolio resume</b></a>
+  </summary>
+	
+</details>
+	
+	
+	
+<details>
+  <summary>
+    Python-based desktop application - <a href="https://github.com/deepak-mandal/Game"><b>Fantasy Cricket Game</b></a>
+  </summary>
+  <h1>Fantasy Cricket Game</h1>
+
+Internshala Trainings, Jul 2020<br><br>
+
+Build a Python-based desktop application which is a Fantasy Cricket Game, where we would create a virtual team of cricket players and score points on how the players perform in different matches.
+
+<h6>Technologies used: Python, OOP, SQLite, PyQt framework</h6>
+
+</details>
+
+
+<details>
+  <summary>
+    PHP based full-stack web app - <a href=""><b>CRSI Conference Website</b> </a>
+  </summary>
+  <h1>CRSI Conference Website</h1>April 2020 - June 2020
+<hr>
+Developed PHP based full-stack conference web app for our Department with my team members.<br/>
+Developed the admin portal for the response to edit/delete.<br/><h6>
+Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><br>
+</details>
+	
+	
+
 		
 <hr/>
 
