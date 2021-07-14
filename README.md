@@ -136,6 +136,9 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
   <summary>
     <b>Joint Entrance Examination - JEE(Adv) 2017</b><br/>
   </summary>
+	<div align="center">
+	<img src="/img/IITG_logo.png">	
+</div>
 </details>
 
 
