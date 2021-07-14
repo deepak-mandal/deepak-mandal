@@ -17,7 +17,7 @@
 
 <details>
   <summary>
-    <a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b></a> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text 
+    <a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b></a> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text <i>(<b>click here to view</b>)</i>
   </summary>
   <h1>Web and PDF file Data Extraction</h1>
 <h3>1. Summarization of Text:-</h3> Generated the summary from the Source text, Further Drawn the Word Cloud <br/>
@@ -142,7 +142,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <b>Certified Python Marketing Analytics (<a href="https://drive.google.com/file/d/1gEPhMKFntl1qX1xWGKyjScFEp4gmOByN/view?usp=sharing" target="_blank">CPMA</a>)</b> View Certificate <br/>
+    <b>Certified Python Marketing Analytics (<a href="https://drive.google.com/file/d/1gEPhMKFntl1qX1xWGKyjScFEp4gmOByN/view?usp=sharing" target="_blank">CPMA</a>)</b>
   </summary>
   <div align="center">
 	<img src="/img/2.png">	
@@ -151,8 +151,8 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1t8tNXF_OBaTuzIt-9aDfUtLJz5JcQmCi/view?usp=sharing" target="_blank">Programming with Python</a> View Certificate <br/>
-  </summary>
+    Programming with Python <i>(<b>click here to view Certificate</b>)</i>
+	</summary>
   <div align="center">
 	<img src="/img/1.png">	
 </div>
@@ -160,7 +160,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1mH_NdkbsSqRen6IRdB6op2M679mXW0XQ/view?usp=sharing" target="_blank">Data Structures and Algorithms in Python</a> <i> (view)</i> <br/>
+    Data Structures and Algorithms in Python
   </summary>
   <div align="center">
 	<img src="/img/6.png">	
@@ -169,7 +169,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1ubIY_m1tYISwxyxLs1mhA90fDjmP-fPp/view?usp=sharing" target="_blank">Web Development</a> <i> (view)</i><br/>
+    Web Development
   </summary>
   <div align="center">
 	<img src="/img/5.png">	
@@ -179,7 +179,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1arGccgA93zUGyAr2Y8N7NQ4CH8sc_Jwu/view?usp=sharing" target="_blank">Programming with C and C++</a> <i> (view)</i><br/>
+	Programming with C and C++
   </summary>
   <div align="center">
 	<img src="/img/7.png">	
@@ -190,7 +190,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1zJ26AC099Bv1wbsFc68NfxGz2LkNiJND/view?usp=sharing" target="_blank">LaTeX Workshop</a><i> (view)</i><br/>
+    LaTeX Workshop
   </summary>
   <div align="center">
 	<img src="/img/8.jpg">	
@@ -202,7 +202,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://www.hackerrank.com/certificates/a43ba88c024e" target="_blank">HackerRank Certificates in Python</a><i> (view)</i><br/>
+    HackerRank Certificates in Python
   </summary>
   <div align="center">
 	<img src="/img/4.png">	
@@ -216,7 +216,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><b
 
 <details>
   <summary>
-    <a href="https://drive.google.com/file/d/1V14GdTpM4_cv7VZXTaCmafxbrpplAa5x/view?usp=sharing" target="_blank">HackerRank Certificates in Problem Solving </a><i>(click to view)</i> <br/>
+    HackerRank Certificates in Problem Solving <i>(click to view)</i> <br/>
   </summary>
   <div align="center">
 	<img src="/img/3.png">	
