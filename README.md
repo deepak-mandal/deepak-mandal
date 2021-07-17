@@ -202,15 +202,6 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 
 
-<details>
-  <summary>
-    HackerRank Certificates in Python
-  </summary>
-  <div align="center">
-	<img src="/img/4.png">	
-</div>
-</details>
-
 
 
 
@@ -218,7 +209,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    HackerRank Certificates in Python, Problem Solving & SQL <i>(click to view)</i> <br/>
+    HackerRank Certificates in Python, Problem Solving & SQL <i><b>(click to view)</b></i> <br/>
   </summary>
 	<div align="center">
 	<img src="/img/4.png">	
