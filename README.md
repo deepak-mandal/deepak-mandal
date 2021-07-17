@@ -218,10 +218,18 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    HackerRank Certificates in Problem Solving <i>(click to view)</i> <br/>
+    HackerRank Certificates in Python, Problem Solving & SQL <i>(click to view)</i> <br/>
   </summary>
+	<div align="center">
+	<img src="/img/4.png">	
+</div>
+	
   <div align="center">
 	<img src="/img/3.png">	
+</div>
+	
+	<div align="center">
+	<img src="/img/9.png">	
 </div>
 </details>
 
