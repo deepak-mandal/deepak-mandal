@@ -41,7 +41,7 @@ Further Extracted Text and Image Data from the PDF file format.<br/>
 
 <details>
   <summary>
-    <a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a> (using gmail) 
+    <a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a> (using gmail + chrome automated software test) 
   </summary>
   <h1>Email Automation with Python</h1>
 <h6>Automating emails by the help of Python, smtplib, Linux & Window OS, HTML, CSS, with attachments using Encrypted connections.</h6>
