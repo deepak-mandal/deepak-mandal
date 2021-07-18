@@ -220,7 +220,12 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
   	
 </details>
 
-
+<details>
+  <summary>
+    Selected for Product(software) Development & Testing, Internship (work remotely) at Germany based Startup
+  </summary>
+	<li>Got Job offer letters in Software Developer profile up to CTC of 2.64 LPA</li>
+</details>
 
 
 
