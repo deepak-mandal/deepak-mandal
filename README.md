@@ -44,9 +44,9 @@ Further Extracted Text and Image Data from the PDF file format.<br/>
     <a href="https://github.com/deepak-mandal/Email-Automation-with-Python"><b>Email Automation with Python</b></a> (using gmail + chrome automated software test) 
   </summary>
   <h1>Email Automation with Python</h1>
-<h6>Automating emails by the help of Python, smtplib, Linux & Window OS, HTML, CSS, with attachments using Encrypted connections.</h6>
-
-<h6><b>Features:-</b> Multiple emails can in one go or on single click, The delivered email is of personalised type i.e. "to" for each single email_Id but not "bcc" or "cc" e-mail type<h6><hr/>
+<li>Automating emails by the help of Python, smtplib, Linux & Window OS, HTML, CSS, with attachments using Encrypted connections.</li>
+<li>Extracted emails automatically from the Linkedin Post using selenium, chrome automated test software, re, pandas, </li>
+<li><b>Features:-</b> Multiple emails can in one go or on single click, The delivered email is of personalised type i.e. "to" for each single email_Id but not "bcc" or "cc" e-mail type</li><br/><hr/>
 </details>
 
 
