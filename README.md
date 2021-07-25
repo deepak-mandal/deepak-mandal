@@ -222,9 +222,9 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    Selected for Product(software) Development & Testing, Internship (work remotely) at Germany based Startup
+    Got Offer letters in Product(software) Development & Testing profile{@ Germany based Startup}, Software Developer profile, Application Developer profile, etc. with CTC  up to 4.6 LPA
   </summary>
-	<li>Got Job offer letters in Software Developer profile up to CTC of 2.64 LPA</li>
+	
 </details>
 
 
@@ -242,6 +242,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 
 <!--
+Selected for Product(software) Development & Testing, Internship (work remotely) at Germany based Startup
 **deepak-mandal/deepak-mandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
