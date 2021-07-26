@@ -222,7 +222,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    Got Offer letters in Product(software) Development & Testing profile{@ Germany based Startup}, Software Developer profile, Application Developer profile, with CTC up to 4.6 LPA
+    Got Offer letters in Product(software) Development & Testing profile{@ Germany based Startup}, Software Developer profile, Application Developer profile, with CTC up to 
   </summary>
 	
 </details>
