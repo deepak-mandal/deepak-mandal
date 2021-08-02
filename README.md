@@ -32,7 +32,14 @@
 <br/>
 Further Extracted Text and Image Data from the PDF file format.<br/>
 
-<h6>Technologies used: Python3, BeautifulSoup/bs4, PyPDF2, SpaCy, NLTK, WordCloud, NumPy, Shutil, OS, parse, requests</h6><hr/>
+<h6>Technologies used: Python3, BeautifulSoup/bs4, PyPDF2, SpaCy, NLTK, WordCloud, NumPy, Shutil, OS, parse, requests</h6>Result:-
+	
+```diff
+
+@@ Selected for Product(software) Development & Testing, Internship (work remotely) at Germany based Startup @@
+```
+<hr>
+	
 </details>
 
 
