@@ -250,7 +250,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 <li><a href="https://github.com/deepak-mandal/RystadEnergy-Round3">RystadEnergy-Round3</a></li>
 <li><a href="https://github.com/deepak-mandal/DueDashGermany">DueDash</a></li>
 <li><a href="https://github.com/deepak-mandal/PasarPolisAssignment">PasarPolisAssignment</a></li>
-<li><a href="https://github.com/deepak-mandal/Assignment-NovelSynth_petrabytes-Oil_and_Gas_domain">Assignment-NovelSynth_petrabytes-Oil_and_Gas_domain</a></li>
+<li><a href="https://github.com/deepak-mandal/Assignment-NovelSynth_petrabytes-Oil_and_Gas_domain">Assignment-NovelSynth_petrabytes</a></li>
 <hr>
 
 
