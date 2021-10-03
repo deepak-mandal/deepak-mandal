@@ -239,7 +239,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    Got Offer letter in Various profiles:
+    Got Offer letter in Various profiles (May, 2021 - July, 2021):
   </summary>
 	
 		
