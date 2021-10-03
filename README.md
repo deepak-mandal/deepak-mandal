@@ -229,20 +229,20 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    Got Offer letter in Various profiles:- 
+    Got Offer letter in Various profiles:
   </summary>
-	<div>
+	
 		
-		<p>  Application  Development  Associate - Accenture </p>
-		<p>Systems Engineer - INFOSYS LIMITED</p>
-		<p> Technical Consultant -  PayrollCloud</p>
-		<p>Software  Engineer - Trianz  Digital Consulting  Pvt.  Ltd</p>
-		<p> Software Trainee -  TechAhead</p>
-		<p>Developer - Frantic Solution</p>
-		<p>Software Developer - InaliFoundation</p>
-		<p>PHP Intern - Light Link Solutions</p>
-		<p>Product Development & Testing profile @ Germany based Startup - DueDash</p>
-	</div>
+		Application  Development  Associate - Accenture 
+		Systems Engineer - INFOSYS LIMITED
+		Technical Consultant -  PayrollCloud
+		Software  Engineer - Trianz  Digital Consulting  Pvt.  Ltd
+		Software Trainee -  TechAhead
+		Developer - Frantic Solution
+		Software Developer - InaliFoundation
+		PHP Intern - Light Link Solutions
+		Product Development & Testing profile @ Germany based Startup - DueDash
+	
 	
 </details>
 
