@@ -5,6 +5,16 @@
 		It's great to see you here!</p>
 </div>
 <hr>
+<h2>Education</h2>
+<p>Indian Institute of Technology, Guwahati
+<br/>B.Tech; 2017-21</p>
+
+<hr/>
+
+<h2>Experiences</h2>
+<p>Accenture <br/>Pre-Onboard Learning; Aug, 2021 - Sep 23, 2021</p>
+
+<hr/>
 	
 <h2>Projects</h2>
 
