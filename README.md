@@ -128,9 +128,9 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 <hr/>
 
 <h2>Technical Skills</h2>
-<li><b>Programming languages :</b> Python, C, C++, Fortran</li>
+<li><b>Programming languages :</b> Java, Python, C, C++, Fortran</li>
 <li><b>Web technologies :</b> HTML, CSS, JavaScript, Bootstrap, SQL, PHP, Django</li>
-<li><b>Database management :</b> SQLite, MySQL</li>
+<li><b>Database management :</b> Oracle, SQLite, MySQL</li>
 <li><b>Analytical tools :</b> pandas, Matplotlib, NumPy, scikit-learn, NLTK, SpaCy, WordCloud, BeautifulSoup</li>
 <li><b>Miscellaneous :</b> git, MS Excel, Data structures, Algorithms, OOP, LibreOffice, GUI/PyQt, Grace plotting tool, GIMP</li>
 <li><b>Operating system :</b> Linux, Windows</li>
@@ -229,8 +229,20 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 
 <details>
   <summary>
-    Got Offer letters in Product(software) Development & Testing profile{@ Germany based Startup}, Software Developer profile, Application Developer profile, with CTC up to 
+    Got Offer letter in Various profiles:- 
   </summary>
+	<div>
+		
+		<p>  Application  Development  Associate - Accenture </p>
+		<p>Systems Engineer - INFOSYS LIMITED</p>
+		<p> Technical Consultant -  PayrollCloud</p>
+		<p>Software  Engineer - Trianz  Digital Consulting  Pvt.  Ltd</p>
+		<p> Software Trainee -  TechAhead</p>
+		<p>Developer - Frantic Solution</p>
+		<p>Software Developer - InaliFoundation</p>
+		<p>PHP Intern - Light Link Solutions</p>
+		<p>Product Development & Testing profile @ Germany based Startup - DueDash</p>
+	</div>
 	
 </details>
 
