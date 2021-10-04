@@ -7,7 +7,7 @@
 <hr>
 <h2>Education</h2>
 <p>Indian Institute of Technology, Guwahati
-<br/>Bachelor of Technology; 2017-21</p>
+<br/>Bachelor of Technology; July, 2017 - July, 2021</p>
 
 <hr/>
 
