@@ -12,6 +12,8 @@
 <hr/>
 
 <h2>Experiences</h2>
+<p>CGI Information Systems and Management Consultants Pvt. Ltd.
+<br/>Software Engineer; Sept. 2021 - present</p>
 <p>Accenture <br/>Pre-Onboard Learning; Aug, 2021 - Sep 23, 2021</p>
 
 <hr/>
