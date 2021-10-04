@@ -128,7 +128,7 @@ Build a Python-based desktop application which is a Fantasy Cricket Game, where 
   <summary>
     PHP based full-stack web app - <a href=""><b>CRSI Conference Website</b> </a>
   </summary>
-  <h1>CRSI Conference Website</h1>April 2020 - June 2020<br/>
+  <h1>CRSI Conference Website</h1>IIT Guwahati; April 2020 - June 2020<br/>
 Developed PHP based full-stack conference web app for our Department with my team members.<br/>
 Developed the admin portal for the response to edit/delete.<br/><h6>
 Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><hr/>
