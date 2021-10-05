@@ -143,7 +143,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 <li><b>Programming languages :</b> Java, Python, C, C++, Fortran</li>
 <li><b>Web technologies :</b> HTML, CSS, JavaScript, Bootstrap, SQL, PHP, Django</li>
 <li><b>Database management :</b> Oracle, SQLite, MySQL</li>
-<li><b>Analytical tools :</b> pandas, Matplotlib, NumPy, scikit-learn, NLTK, SpaCy, WordCloud, BeautifulSoup</li>
+<li><b>Analytical tools :</b> pandas, Matplotlib, NumPy, scikit-learn, NLTK, SpaCy, WordCloud, BeautifulSoup, Natural Language Processing (NLP), Seaborn, Machine Learning</li>
 <li><b>Miscellaneous :</b> git, MS Excel, Data structures, Algorithms, OOP, LibreOffice, GUI/PyQt, Grace plotting tool, GIMP</li>
 <li><b>Operating system :</b> Linux, Windows</li>
 
