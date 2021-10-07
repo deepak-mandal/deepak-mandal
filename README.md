@@ -7,14 +7,14 @@
 <hr>
 <h2>Education</h2>
 <p>Indian Institute of Technology, Guwahati
-<br/>Bachelor of Technology; July, 2017 - July, 2021</p>
+<br/>Bachelor of Technology; <!--July,--> 2017 - <!--July,--> 2021</p>
 
 <hr/>
 
 <h2>Experiences</h2>
 <p>CGI Information Systems and Management Consultants Pvt. Ltd.
-<br/>Software Engineer; Sept. 2021 - present</p>
-<p>Accenture <br/>Pre-Onboard Learning; Aug, 2021 - Sep 23, 2021</p>
+<br/>Software Engineer;<!-- Sept.--> 2021 - present</p><!--
+<p>Accenture <br/>Pre-Onboard Learning; Aug, 2021 - Sep 23, 2021</p>-->
 
 <hr/>
 	
@@ -239,6 +239,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
   	
 </details>
 
+<!--
 <details>
   <summary>
     Got Offer letter in Various profiles (May, 2021 - July, 2021):
@@ -257,7 +258,7 @@ Technologies used: Backend - PHP, MySQL; Frontend - HTML, CSS & Bootstrap</h6><h
 	
 	
 </details>
-
+-->
 
 
 
