@@ -13,12 +13,20 @@
 
 <h2>Experiences</h2>
 <p>CGI Information Systems and Management Consultants Pvt. Ltd.
-<br/>Software Engineer;<!-- Sept.--> 2021 - present</p><!--
+<br/>Senior Software Engineer;<!-- Sept.--> 2021 - present</p><!--
 <p>Accenture <br/>Pre-Onboard Learning; Aug, 2021 - Sep 23, 2021</p>-->
 
 <hr/>
 	
 <h2>Projects</h2>
+
+<details>
+  <summary>
+    <a href="https://github.com/deepak-mandal/reviewbook"><b>ReviewBook Platform</b></a> Ongoing using Python3 - Django, JavaScript 
+  </summary>
+  <hr/>
+</details>
+
 
 <details>
   <summary>
