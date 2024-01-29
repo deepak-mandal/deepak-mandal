@@ -58,13 +58,6 @@
 
 <details>
   <summary>
-    <a href="https://github.com/deepak-mandal/eCommerce"><b>eCommerce (Basic features)</b></a> Ongoing using Python3 - Django, JavaScript 
-  </summary>
-  working on, will update soon..<hr/>
-</details>
-
-<details>
-  <summary>
     <a href="https://github.com/deepak-mandal/DueDash"><b>Web and PDF Data Extraction</b></a> - Text and Image Extraction from Web Link or URL, .pdf & Summarization of Text <i>(<b>click here for details</b>)</i>
   </summary>
   <h1>Web and PDF file Data Extraction</h1>
