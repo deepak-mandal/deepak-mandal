@@ -22,8 +22,10 @@
 
 <details>
   <summary>
-    <a href="https://github.com/deepak-mandal/reviewbook"><b>ReviewBook Platform</b></a> Ongoing using Python3 - Django, JavaScript 
+    <a href="https://github.com/deepak-mandal/reviewbook"><b>ReviewBook Platform</b></a> Java,Spring, Angular & SQL database technologies. 
   </summary>
+	<li>Analyzed, designed & developed a product to the core problem - “How to motivate maximum number of consumers to provide genuine reviews and ratings that can influence buying decisions of other consumers”.</li>
+	<li> Designed Architecture diagram, Database data model & schema by analyzing Business requirement/high-level features. </li> <li>Developed microservice architecture for Registration, Login, Product management, Review management services, Eureka server, API Gateway using Spring Boot with NoSQL/MongoDB & SQL/MySQL databases. <li>Designed & built Restful APIs that involves CRUD operations.</li> <li>Designed angular application architecture & developed single page application corresponding to services using angular materials, AG Grid; implemented custom, shared module features. </li><li>Implemented user authentication using JWT, microservices communication using RabbitMQ queuing system & containerization using Docker </li>
   <hr/>
 </details>
 
