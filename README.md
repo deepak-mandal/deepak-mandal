@@ -23,19 +23,15 @@
 </details>
 
 
+
+
 <details>
   <summary>
-    <a><b>Projects</b></a>
+    <a href="https://github.com/deepak-mandal/"><b>Digital Wealth Platform</b></a> Java, Spring, Angular, Oracle DBMS; Clients:- Canadian banks - CIBC, TD Bank, BMO, Aviso; Sept 2021- Oct 2023 
   </summary>
-  
-	<h3>                                                                                                        </h3> <h3>Digital Wealth Platform                                                             Clients:- Canadian banks - CIBC, TD Bank, BMO, Aviso; Sept 2021- Oct 2023 </h3><li> Worked as a full-stack Engineer with Product Engineering perspective on Digital Wealth Platform (CGI Wealth360) product features in the Global Wealth and Capital Markets domain, which delivers a flexible Unified Account Platform with goal-based investing capabilities and provides end-to-end investment management support. </li><li> Technical Analysis of epic/user story, bug root cause, and designed solutions meeting industry standard. </li><li> Angular – development of new UI screen Including the building reusable component, service with HTML, SCSS, TypeScript, AG Grid, angular material, RxJs, Lodash & JavaScript, that works in multiple areas of application; Architecture upgrades - Angular version & Ascent libraries; services-API integration; Unit testcases using Karma-Jasmine; ESLint for code quality and maintain standard coding style. </li><li>Spring & PL/SQL – development of RESTful web services/API using Spring Boot, Java, Microservice architectures, Maven, Postman API and SQL/Oracle databases; testcases using Junit testing framework. </li><li>Code fix for client/production bug in the entire codebase or product engineering environment; code reviews. </li><li> Analysis, development, debugging, Testing, deployment & collaborating with business to ensure bug-free user experience and with PuTTY, WinSCP; DevOps:- Jenkins, Continuous Integration/Continuous Deployment, Git; Bitbucket, Confluence, CAST Application Intelligence Platform (AIP), Jira tools on day-to-day basis in the Agile environment. </li>
-
-
- 
- 
- <hr/>
+  <li> Worked as a full-stack Engineer with Product Engineering perspective on Digital Wealth Platform (CGI Wealth360) product features in the Global Wealth and Capital Markets domain, which delivers a flexible Unified Account Platform with goal-based investing capabilities and provides end-to-end investment management support. </li><li> Technical Analysis of epic/user story, bug root cause, and designed solutions meeting industry standard. </li><li> Angular – development of new UI screen Including the building reusable component, service with HTML, SCSS, TypeScript, AG Grid, angular material, RxJs, Lodash & JavaScript, that works in multiple areas of application; Architecture upgrades - Angular version & Ascent libraries; services-API integration; Unit testcases using Karma-Jasmine; ESLint for code quality and maintain standard coding style. </li><li>Spring & PL/SQL – development of RESTful web services/API using Spring Boot, Java, Microservice architectures, Maven, Postman API and SQL/Oracle databases; testcases using Junit testing framework. </li><li>Code fix for client/production bug in the entire codebase or product engineering environment; code reviews. </li><li> Analysis, development, debugging, Testing, deployment & collaborating with business to ensure bug-free user experience and with PuTTY, WinSCP; DevOps:- Jenkins, Continuous Integration/Continuous Deployment, Git; Bitbucket, Confluence, CAST Application Intelligence Platform (AIP), Jira tools on day-to-day basis in the Agile environment. </li>
+<hr/>
 </details>
-
 
 
 
