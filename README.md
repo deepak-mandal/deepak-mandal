@@ -1,6 +1,6 @@
 # DEEPAK KUMAR MANDAL
 
-**4 years of experience in software engineering with expertise in Angular & Java technologies**  
+**4+ years of experience in software engineering with expertise in Angular & Java technologies**  
 Holds a strong engineering foundation from **IIT Guwahati**
  
 📧 deepa170122014@alumni.iitg.ac.in  
